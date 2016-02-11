@@ -1,0 +1,21 @@
+#video-frame{
+	width: 100%;
+	min-height: 605px;
+}
+
+button {
+
+}
+
+#prev-button {
+	float: left;
+}
+
+#next-button {
+	float: right;
+}
+
+#video-list {
+	clear: both;
+	margin-left: 15%;
+}

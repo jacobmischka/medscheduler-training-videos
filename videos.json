@@ -1,0 +1,262 @@
+[
+	{
+		"group": "build",
+		"title": "Build Schedules",
+		"items": {
+			"assignment": [
+				{
+					"title": "Schedule Assignments",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/build/as_schedule_assignments/schedule_assignments.htm"
+				},
+				{
+					"title": "Create a Call Site",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/build/as_create_call_site/create_call_site.htm"
+				},
+				{
+					"title": "Create a Clinic Site",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/build/as_create_clinic_site/create_clinic_site.htm"
+				},
+				{
+					"title": "Apply Continuity Clinics",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/build/as_apply_continuity/apply_continuity.htm"
+				}
+			],
+			"block": [
+				{
+					"title": "Build a Block Schedule By Person & By Rotation",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/build/bs_schedule_by_person_by_rotation/bs_schedule_by_person_by_rotation.htm"
+				},
+				{
+					"title": "Place People on Outside Rotations",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/build/bs_schedule_people_outside_rotations/bs_schedule_people_outside_rotations.htm"
+				},
+				{
+					"title": "Schedule External Rotations",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/build/bs_schedule_rotators/bs_schedule_rotators.htm"
+				},
+				{
+					"title": "Schedule a Split Rotation",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/build/bs_schedule_split_rotations/bs_schedule_split_rotations.htm"
+				},
+				{
+					"title": "Schedule Vacation or Leave",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/build/bs_schedule_vacation_leave/bs_schedule_vacation_leave.htm"
+				},
+				{
+					"title": "Schedule Same Rotation on Consecutive Blocks",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/build/bs_schedule_rotation_over_consecutive_blocks/bs_schedule_rotation_over_consecutive_blocks.htm"
+				}
+			]
+		}
+	},
+	{
+		"group": "edit",
+		"title": "Edit Schedules",
+		"items": {
+			"assignment": [
+				{
+					"title": "Delete or Replace Assignments",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/edit/as_delete_replace_assignments/as_delete_replace_assignments.htm"
+				},
+				{
+					"title": "Drag and Drop Assignments",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/edit/as_drag_assignments/as_drag_assignments.htm"
+				},
+				{
+					"title": "Edit Assignment Properties",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/edit/as_assignment_properties/as_assignment_properties.htm"
+				}
+			],
+			"block": [
+				{
+					"title": "Drag and Drop Rotations or People",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/edit/bs_edit_drag_rotation_or_people/bs_edit_drag_rotation_or_people.htm"
+				},
+				{
+					"title": "Delete or Replace People or Rotations",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/edit/bs_delete_replace_rotation_or_people/bs_delete_replace_rotation_or_people.htm"
+				},
+				{
+					"title": "Edit Person & Rotation Properties",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/edit/bs_edit_person_rotation_properties/bs_edit_person_rotation_properties.htm"
+				}
+			]
+		}
+	},
+	{
+		"group": "customize",
+		"title": "Customize Schedules",
+		"items": {
+			"assignment": [
+				{
+					"title": "Setup Rules",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/custom/as_setup_rules/as_setup_rules.htm"
+				},
+				{
+					"title": "Display Options",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/custom/as_display_options/as_display_options.htm"
+				},
+				{
+					"title": "Create Custom Views",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/custom/as_create_custom_view/as_create_custom_view.htm"
+				},
+				{
+					"title": "Set Call Frequency",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/custom/as_call_frequency/as_call_frequency.htm"
+				},
+				{
+					"title": "Configure Assignment Definitions",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/custom/as_assignment_definitions/as_assignment_definitions.htm"
+				}
+			],
+			"block": [
+				{
+					"title": "Configure Rotation Favorites",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/custom/bs_rotation_favorites/bs_rotation_favorites.htm"
+				},
+				{
+					"title": "Set Application Color and Workspace Shading",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/custom/bs_application_color_workspace_shading/bs_application_color_workspace_shading.htm"
+				},
+				{
+					"title": "Set Status Type Color Coding",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/custom/bs_status_type_color/bs_status_type_color.htm"
+				},
+				{
+					"title": "Show/Hide Helpful Tips",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/custom/bs_show_hide_helpful_tips/bs_show_hide_helpful_tips.htm"
+				},
+				{
+					"title": "Show, Hide & Move Panels",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/custom/bs_show_hide_move_panels/bs_show_hide_move_panels.htm"
+				}
+			]
+		}
+	},
+	{
+		"group": "view",
+		"title": "View Schedules",
+		"items": {
+			"assignment": [
+				{
+					"title": "Access Assignment & Person Properties",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/view/as_access_assignment_people_properties/as_access_assignment_people_properties.htm"
+				},
+				{
+					"title": "Filter Views By Status Type",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/view/as_fltr_by_status_type/as_fltr_by_status_type.htm"
+				},
+				{
+					"title": "View or Hide Rotators & Archived People",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/view/as_hide_rotators_archived_people/as_hide_rotators_archived_people.htm"
+				},
+				{
+					"title": "Highlight Specific People",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/view/as_highlight_people/as_highlight_people.htm"
+				},
+				{
+					"title": "View People Counts",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/view/as_people_count/as_people_count.htm"
+				}
+			],
+			"block": [
+				{
+					"title": "Access Rotation & Person Properties",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/view/bs_access_rotation_people_properties/bs_access_rotation_people_properties.htm"
+				},
+				{
+					"title": "Filter Views By Status Types",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/view/bs_fltr_by_status_type/bs_fltr_by_status_type.htm"
+				},
+				{
+					"title": "View/Hide Rotators, Archive People & Non-Primary Rotations",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/view/bs_hide_rotators_archived_people_and_non_primary/bs_hide_rotators_archived_people_and_non_primary.htm"
+				},
+				{
+					"title": "Highlight Specific Rotations or People",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/view/bs_highlight_people_rotations/bs_highlight_people_rotations.htm"
+				},
+				{
+					"title": "View Rotation & People Counts",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/view/bs_people_rotation_counts/bs_people_rotation_counts.htm"
+				}
+			]
+		}
+	},
+	{
+		"group": "print",
+		"title": "Print & Export Schedules",
+		"items": {
+			"assignment": [
+				{
+					"title": "Use Print Preview",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/print/as_prnt_prvw/as_prnt_prvw.htm"
+				},
+				{
+					"title": "Print My Assignment Schedule",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/print/as_print_and_export/as_print_and_export.htm"
+				},
+				{
+					"title": "Export Schedule Data",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/print/as_export_sch_data/as_export_sch_data.htm"
+				}
+			],
+			"block": [
+				{
+					"title": "Print Schedule View",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/print/bs_prnt_prvw/bs_prnt_prvw.htm"
+				},
+				{
+					"title": "Print My Block Schedule",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/print/bs_print_and_export/bs_print_and_export.htm"
+				},
+				{
+					"title": "Export Schedule Data",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/print/bs_export_sch_data/bs_export_sch_data.htm"
+				}
+			]
+		}
+	},
+	{
+		"group": "sync",
+		"title": "Synchronize Schedules",
+		"items": {
+			"assignment": [
+				{
+					"title": "Upload Assignment Schedule Data",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/upload/as_upload_schedule_data/as_upload_schedule_data.htm"
+				},
+				{
+					"title": "Switch to Different Department, Division or Academic Year",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/upload/as_switch_academic_year/as_switch_academic_year.htm"
+				},
+				{
+					"title": "Delete All Assignment Schedule Data from My Computer",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/upload/as_delete_schedule_data/as_delete_schedule_data.htm"
+				},
+				{
+					"title": "Request Help or Submit a Comment or Suggestion",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/upload/as_help_request/as_help_request.htm"
+				}
+			],
+			"block": [
+				{
+					"title": "Upload Block Schedule Data",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/upload/bs_upload_schedule_data/bs_upload_schedule_data.htm"
+				},
+				{
+					"title": "Switch to Different Department, Division or Academic Year",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/upload/bs_switch_academic_year_and_department/bs_switch_academic_year_and_department.htm"
+				},
+				{
+					"title": "Delete All Block Schedule Data from My Computer",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/upload/bs_delete_schedule_data/bs_delete_schedule_data.htm"
+				},
+				{
+					"title": "Request Help or Submit a Comment or Suggestion",
+					"url": "https://www.new-innov.com/NiHelpTraining/HelpDemos/MedScheduler/upload/bs_help_request/bs_help_request.htm"
+				}
+			]
+		}
+	}
+]
