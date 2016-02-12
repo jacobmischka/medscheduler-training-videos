@@ -51,12 +51,18 @@ function main(){
 		var iframe = document.getElementById("video-frame");
 		var video = videos[index];
 		iframe.contentWindow.location.replace(video.url);
+		var h1 = document.getElementById("video-title");
+		while(h1.firstChild)
+			h1.removeChild(h1.firstChild);
+		var text = document.createTextNode(video.title);
+		h1.appendChild(text);
 	}
 
 	function nextVideo(){
 		if(state.video + 1 < videos.length){
 			state.video++;
 			history.pushState(state, videos[state.video].title, "#" + state.video);
+			document.title = videos[state.video].title;
 			loadVideo(state.video);
 		}
 		else
@@ -67,12 +73,14 @@ function main(){
 		if(state.video - 1 >= 0){
 			state.video--;
 			history.pushState(state, videos[state.video].title, "#" + state.video);
+			document.title = videos[state.video].title;
 			loadVideo(state.video);
 		}
 		else
 			alert("No more videos");
 	}
 
+	document.title = videos[state.video].title;
 	loadVideo(state.video);
 
 	window.onpopstate = function(event){
@@ -81,8 +89,10 @@ function main(){
 			state = event.state
 		else if(window.location.hash != "" && window.location.hash != "#")
 			state.video = parseInt(window.location.hash.substring(1));
-		if(state.video != startVideo)
+		if(state.video != startVideo){
+			document.title = videos[state.video].title;
 			loadVideo(state.video);
+		}
 	}
 }
 

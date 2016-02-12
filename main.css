@@ -11,7 +11,13 @@
 	float: right;
 }
 
-#video-list {
+#video-title {
 	clear: both;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#video-list {
 	margin-left: 15%;
+	margin-right: 15%;
 }
